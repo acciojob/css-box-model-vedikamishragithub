@@ -1,13 +1,2 @@
 
 /* Your CSS Code here. */
-div{
-    width:300px;
-	background-color:lightblue;
-	border: 15px solid blue;
-	padding:50px;
-	margin:20px;
-}
-p{
- border:1px dotted black;
- padding:25px;	
-}
